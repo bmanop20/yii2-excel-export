@@ -1,5 +1,5 @@
 {
-    "name": "codemix/yii2-excelexport",
+    "name": "codemix/yii2-excel-export",
     "description": "A utility to quickly create Excel files from query results or raw data",
     "keywords": ["yii2", "excel", "export"],
     "type": "yii2-extension",
